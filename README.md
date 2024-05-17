@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bala1007
+- 👋 Hi, I’m @Balamurugan Paranthaman
 - 👀 I’m interested in Data Engineering and Analytics
 - 🌱 I’m currently learning Python fundamentals and Python for Data Analytics
 - 📫 How to reach me
