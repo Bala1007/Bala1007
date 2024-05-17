@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering and Analytics
 - 🌱 I’m currently learning Python fundamentals and Python for Data Analytics
 - 📫 How to reach me
--     Linked in https://www.linkedin.com/in/balamurugan-paranthaman-097478156/
+-    Linked in https://www.linkedin.com/in/balamurugan-paranthaman-097478156/
 - ✉  Email balamurugan101998@gmail.com
 - ✆  Phone number +91 9843633257, +91 9080796659
 
